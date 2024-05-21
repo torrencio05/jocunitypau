@@ -1,0 +1,7 @@
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\bin\Debug\Ex2_Fireworks.exe.config
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\bin\Debug\Ex2_Fireworks.exe
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\bin\Debug\Ex2_Fireworks.pdb
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\obj\Debug\Ex2_Fireworks.csproj.SuggestedBindingRedirects.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\obj\Debug\Ex2_Fireworks.csproj.CoreCompileInputs.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\obj\Debug\Ex2_Fireworks.exe
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex2_Fireworks\obj\Debug\Ex2_Fireworks.pdb

@@ -1,0 +1,41 @@
+4. Condicionales y Comparaciones
+Ejercicio - "Comparador de Números":
+Escribe un programa que:
+
+Solicite al usuario ingresar tres números.
+Determine y muestre cuál es el mayor, el menor y si hay números iguales.
+   
+int num1, num2, num3;
+
+    Console.Write(" escrive un numero: ");
+    num1= Convert.ToInt32(Console.ReadLine());
+    Console.Write("escrive el segundo numero: ");
+    num2= Convert.ToInt32(Console.ReadLine());
+    Console.Write("escrive el tercer numero: ");
+    num3= Convert.ToInt32(Console.ReadLine());
+
+    int maximo = Math.Max(Math.Max(num1, num2), num3);
+    int minimo = Math.Min(Math.Min(num1, num2), num3);
+
+    Console.WriteLine($"El mayor número es: {maximo}");
+    Console.WriteLine($"El menor número es: {minimo}");
+    Console.WriteLine(num1 == num2  ? "el numero 1 y numero 2 son iguales" : "No hay coincidencia en entre el numero 1 y 2");
+
+    //if (num1< num2 && num1 < num3) 
+    //{
+    //    if (num2 < num3)
+    //    {
+    //        Console.WriteLine($"el numero mas pequeño es {num1}");
+    //        Console.WriteLine($"el segundo numero mas pequeño es {num2}");
+    //        Console.WriteLine($"el tercer numero mas pequeño es {num3}");
+    //    }else if (num3 < num2)
+    //    {
+    //        Console.WriteLine($"el numero mas pequeño es {num1}");
+    //        Console.WriteLine($"el segundo numero mas pequeño es {num3}");
+    //        Console.WriteLine($"el tercer numero mas pequeño es {num2}");
+
+
+    //    }
+
+
+    //}

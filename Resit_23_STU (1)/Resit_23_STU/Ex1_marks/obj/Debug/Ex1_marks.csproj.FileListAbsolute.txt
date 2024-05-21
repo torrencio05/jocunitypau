@@ -1,0 +1,10 @@
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.csproj.AssemblyReference.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.csproj.SuggestedBindingRedirects.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.csproj.CoreCompileInputs.cache
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\bin\Debug\Ex1_marks.exe.config
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\bin\Debug\Ex1_marks.exe
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\bin\Debug\Ex1_marks.pdb
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.csproj.AssemblyReference.cache
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.csproj.CoreCompileInputs.cache
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.exe
+C:\Users\pauto\OneDrive\Escritorio\Resit_23_STU (1)\Resit_23_STU\Ex1_marks\obj\Debug\Ex1_marks.pdb

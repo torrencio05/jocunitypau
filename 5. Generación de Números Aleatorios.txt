@@ -1,0 +1,46 @@
+5. Generación de Números Aleatorios
+Ejercicio - "Adivina el Número Aleatorio":
+Crea un juego donde:
+
+El programa genera un número aleatorio entre 1 y 10.
+El usuario tiene tres intentos para adivinar el número.
+Después de cada intento incorrecto, el programa da una pista si el número es mayor o menor.
+
+            int numAleatorio;
+            int intentos = 1;
+            int numeroAdivinar=0;
+
+
+            Random alea = new Random(); 
+            numAleatorio=alea.Next(1,11);
+
+            
+
+            while (intentos < 4) 
+            {
+                Console.WriteLine($"intento num {intentos}:  y numero aleatorio es: {numAleatorio}");
+                numeroAdivinar = Convert.ToInt32(Console.ReadLine());
+
+                //Console.WriteLine($"vuelta: {intentos}");
+
+                if (numAleatorio == numeroAdivinar)
+                {
+                    Console.WriteLine("bingo!!");
+                    return;
+
+                }else
+                {
+                    Console.WriteLine("vuelve a introducir otro numero: ");
+                    intentos++;
+                    if (numAleatorio > numeroAdivinar)
+                    {
+                        Console.WriteLine(" tu numero es mas pequeño que el numero aleatorio");
+                    }else
+                    {
+                        Console.WriteLine(" tu numero es mas grande que el aleatorio");
+                    }
+                }
+                
+            }
+            Console.WriteLine($"Lo siento, te has quedado sin intentos. El número era: {numAleatorio}");
+            return

@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+2. Operaciones y Cálculos Simples
+Ejercicio - "Calculadora Básica":
+Crea un programa que:
+
+Pida al usuario dos números.
+Calcule y muestre la suma, resta, multiplicación y división de esos números.
+
+
+namespace calculadora
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double num1, num2, suma;
+
+            Console.Write("Escrive el primer numero ");
+            num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine();
+            Console.Write("Escrive el segundo numero ");
+            num2 = Convert.ToDouble(Console.ReadLine()); 
+            Console.WriteLine() ;
+            suma = num1 + num2;
+
+            Console.WriteLine($"La suma de los dos numeros es {suma}");
+            Console.WriteLine($"Resta: {num1 - num2}");
+            //otra forma de comprobar la division por cero. 
+            //Console.WriteLine($"División: {(num2 != 0 ? num1 / num2 : "División por cero no permitida")}");
+
+
+            if (num2 <= 0)
+            {
+                Console.Write("introduce otro numero que sea mayor que 0 : ");
+                num2 = Convert.ToDouble(Console.ReadLine());
+            }
+
+            Console.WriteLine($"Division {num1 / num2}");
+
+
+            Console.ReadLine();
+        }
+    }
+}

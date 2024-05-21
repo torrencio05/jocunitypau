@@ -1,0 +1,3 @@
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex_03_MatrixProcessing\obj\Debug\Ex3_MatrixProcessing.csproj.AssemblyReference.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex_03_MatrixProcessing\obj\Debug\Ex3_MatrixProcessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\enric\Google Drive\FONPROG_VIDEO\EXAMS\H23\Resit\Resit_23_STU\Ex_03_MatrixProcessing\obj\Debug\Ex3_MatrixProcessing.csproj.CoreCompileInputs.cache

@@ -1,0 +1,28 @@
+3. Trabajo con Strings
+Ejercicio - "Reverso y Concatenación":
+Desarrolla un programa que:
+
+Pida al usuario ingresar dos frases.
+Imprima ambas frases en orden inverso.
+Concatene las frases y muestre el resultado.
+
+ string frase1, frase2;
+
+ Console.Write("ingresa la frase 1 : ");
+ frase1 = Console.ReadLine();
+ Console.Write("ingresa la frase 2 : ");
+ frase2 = Console.ReadLine();
+
+
+ string reverso1 = new String(frase1.ToCharArray().Reverse().ToArray());
+
+ Console.Write($"frase 1 al reves: {reverso1}");
+
+
+ string reverso2 = new String(frase2.ToCharArray().Reverse().ToArray());
+
+ Console.Write($"frase 1 al reves: {reverso2}");
+
+ Console.Write($"la frase 1 y la frase 2 son: {reverso1 + reverso2}");
+
+ Console.ReadLine();
