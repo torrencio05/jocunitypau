@@ -1,2 +1,0 @@
-C:\Users\marcg\source\repos\Apunts 1\Apunts Fon.Prog.1\obj\Debug\Apunts Fon.Prog.1.csproj.AssemblyReference.cache
-C:\Users\marcg\source\repos\Apunts 1\Apunts Fon.Prog.1\obj\Debug\Apunts Fon.Prog.1.csproj.CoreCompileInputs.cache
